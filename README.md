@@ -5,7 +5,7 @@ This repository contains my C++ practice programs, covering fundamentals to obje
 The goal of this repository is to build strong programming foundations for DSA and future AI/ML learning.
 
 
-# Topics Covered
+## Topics Covered
 - Basics
 - Control Flow
 - Patterns
