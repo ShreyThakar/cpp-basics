@@ -1,4 +1,4 @@
-# C++ Basics
+# CPP-Basics
 
 This repository contains my C++ practice programs, covering fundamentals to object-oriented programming.
 
