@@ -4,15 +4,19 @@
 using namespace std;
 
 int main() {
-    int N1;
-    int N2;
+    int Number1;
+    int Number2;
     int sum;
 
-    cin >> N1;
-    cin >> N2;
-    sum = N1 + N2;
+    cout << "Enter number 1: ";
+    cin >> Number1;
 
-    cout << sum;
+    cout << "Enter number 2: ";
+    cin >> Number2;
+
+    sum = Number1 + Number2;
+
+    cout << "Sum = " << sum << endl;
 
     return 0;
 }
